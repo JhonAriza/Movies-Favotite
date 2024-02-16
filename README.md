@@ -1,13 +1,14 @@
 ###   INTRODUCCION
 
-este es un proyecto en vue para consumir un api de peliculas y mostrar y agregar a favoritos cada una de las peliculas  
+ 
+Este proyecto Vue.js tiene como objetivo consumir una API de películas para mostrarlas dinámicamente en la interfaz. Además, brinda la funcionalidad de agregar películas a una lista de favoritos. 
 ###  INSTALACION 
 
 - Clonar el repositorio con el siguiente comando git clone URL
 - Asegurarse de tener instalados Node.js, npm y live-server. En caso de no tenerlos, se pueden instalar con los siguientes comandos:
  -  npm install
  -  npm install -g live-server
-  -  npm install -g live-server 
+
  
 
 ## USO
